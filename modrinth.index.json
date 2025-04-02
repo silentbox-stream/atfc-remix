@@ -618,6 +618,81 @@
                 "sha512": "98ea25706ae4c6d29c3153ee0737db4a1bd12d7dea05d6dfee2932433629f5137e35476ef4a181c9273ace2a3d2cee0a187471982630bbc5dbc86fbdff63f38f"
             },
             "path": "mods/waterflasks-2.0.7.jar"
+        },
+        {
+            "downloads": [
+                "https://mediafilez.forgecdn.net/files/4462/832/configured-2.0.1-1.18.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 277131,
+            "hashes": {
+                "sha1": "825e0e439de2bfabf5d088953eb49c1c04e3e531",
+                "sha512": "d1bc625abf4195a5fa000e5b0f25fe77d326e954f83ef3981775d60bda180d1317b88ccbe230c8ee1c15aa6443fc6f41ed737ddf49fdb825cd3cdac89d46e736"
+            },
+            "path": "mods/configured-2.0.1-1.18.2.jar"
+        },
+        {
+            "downloads": [
+                "https://mediafilez.forgecdn.net/files/3713/957/gravestone-1.18.2-1.0.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 249205,
+            "hashes": {
+                "sha1": "39a226e85c5407e436811b71590d8126b5cdb66f",
+                "sha512": "998c0f878050878e24b5b5df898adbe50d2aceb8364d9b3694cef8556f4a7e9d82b0c79bcdf8897644cffdd7a84e8d9f2e26996684591c9b4e7b641cad2f75c0"
+            },
+            "path": "mods/gravestone-1.18.2-1.0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://mediafilez.forgecdn.net/files/4399/590/PickUpNotifier-v3.2.1-1.18.2-Forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 81610,
+            "hashes": {
+                "sha1": "0b3c27c890eaef3d5f1c8360185db3d5ddbd0422",
+                "sha512": "bedf2831e1db86139ffd53f813a758da3ec39a6a72241d955e99f91d568f2ff20de3346ef31a1dcc2f304a52768e8d03549895725eb381d33b984ba76f8960d0"
+            },
+            "path": "mods/PickUpNotifier-v3.2.1-1.18.2-Forge.jar"
+        },
+        {
+            "downloads": [
+                "https://mediafilez.forgecdn.net/files/3707/226/radium-0.7.10.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 501920,
+            "hashes": {
+                "sha1": "5ef8ecf547ceebc4d1e678b6cd2441756e283e48",
+                "sha512": "9bbe2f5ea6e5ebe29d452e941d08bf8863700783509143f34abb45910d78e5194ebb47655a87999c3558e7bdb91870e011b4dc9fc6f382877f2205cbdd8d8881"
+            },
+            "path": "mods/radium-0.7.10.jar"
+        },
+        {
+            "downloads": [
+                "https://mediafilez.forgecdn.net/files/4030/494/swingthroughgrass-1.18.2-1.9.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 23207,
+            "hashes": {
+                "sha1": "0d2430f6018cff2905e3c832bc078772b6965268",
+                "sha512": "ddfb5b22bd7c3d4ba4510fdad62cb0cdde34238f0eb60ceca048b2dafea9ae6784d66192bc6081989e3f173476c52fbdb1b4fe176bc2d4afca166c8f37698551"
+            },
+            "path": "mods/swingthroughgrass-1.18.2-1.9.1.jar"
         }
     ],
     "formatVersion": 1,
