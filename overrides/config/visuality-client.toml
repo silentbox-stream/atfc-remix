@@ -1,0 +1,44 @@
+
+[slime]
+	#Slime Blobs Enabled
+	enabled = true
+
+[charge]
+	#Charge Particle Enabled
+	enabled = true
+
+[sparkle]
+	#Sparkle Particle Enabled
+	enabled = true
+
+[soul]
+	#Soul Particle Enabled
+	enabled = true
+
+[waterCircle]
+	#Water Circles Enabled
+	enabled = true
+	#Water Circles Colored
+	colored = true
+	#Water Circles Density
+	#Range: 0 ~ 64
+	density = 16
+
+[hitParticles]
+	#Hit Particles Enabled
+	enabled = true
+	#Hit Particles Entries
+	entries = ["minecraft:skeleton=visuality:bone", "minecraft:skeleton_horse=visuality:bone", "minecraft:stray=visuality:bone", "minecraft:wither_skeleton=visuality:wither_bone", "minecraft:chicken=visuality:feather", "minecraft:villager=visuality:emerald"]
+
+[shinyArmor]
+	#Shiny Armor Enabled
+	enabled = true
+	#Shiny Armor Entries
+	entries = ["minecraft:golden_helmet", "minecraft:golden_chestplate", "minecraft:golden_leggings", "minecraft:golden_boots", "minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots"]
+
+[shinyBlocks]
+	#Shiny Blocks Enabled
+	enabled = true
+	#Shiny Blocks Entries
+	entries = ["minecraft:gold_ore", "minecraft:deepslate_gold_ore", "minecraft:nether_gold_ore", "minecraft:diamond_ore", "minecraft:deepslate_diamond_ore", "minecraft:emerald_ore", "minecraft:deepslate_emerald_ore"]
+
