@@ -1,2 +1,6 @@
 #  git config core.whitespace cr-at-eol    
 .vscode
+node_modules
+package*.json
+bun.lock
+out
