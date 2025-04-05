@@ -4,7 +4,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -24,7 +24,7 @@ fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
-renderDistance:12
+renderDistance:16
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
@@ -152,7 +152,7 @@ key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.narrate:key.keyboard.keypad.6
 key_key.waila.show_details:key.keyboard.left.shift
 key_key.waila.show_recipes:key.keyboard.keypad.3
-key_key.waila.show_uses:key.keyboard.keypad.4
+key_key.waila.show_uses:key.keyboard.u:SHIFT
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

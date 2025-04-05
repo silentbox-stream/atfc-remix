@@ -51,21 +51,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/cVNW5lr6/versions/VVV3e80a/Highlighter-1.18.1-1.1.2.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 24803,
-            "hashes": {
-                "sha1": "c73be6069cde4c10c7052d2fe53c307d7cf66d6a",
-                "sha512": "c459cf82dd3589f5e60718bc132a4ceafbd8c902311626a617f3d1ea58798346aacaf1e886841b4720ca2e4813b80527c01f3c02c238b8bcef5419b1985b0dbb"
-            },
-            "path": "mods/Highlighter-1.18.1-1.1.2.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/ArF8Kr0T/versions/V3C7QLLX/HotbarSwapper-1.18.2-Forge-1.0.0.jar"
             ],
             "env": {
@@ -78,21 +63,6 @@
                 "sha512": "d8b6b152f4029c6b8eb8d3c631ec2d91fc0102ab98ec908dada6ea63032ece4d3595ff8d8033748db1440ac937a9c2d87d628e7d199ca180138943797c0f8e2c"
             },
             "path": "mods/HotbarSwapper-1.18.2-Forge-1.0.0.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/5faXoLqX/versions/AyFtfJ8s/Iceberg-1.18.2-forge-1.0.49.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 107482,
-            "hashes": {
-                "sha1": "fc6b0c3a8f40318ae3518f057de8382364e72218",
-                "sha512": "213b8d43d3260f98decae8394f86de3e80e7ad5d12dde0a00f9f9ddd0b2cfd0f3dc653dc97196b087c35a8c4b9e1e15c2d3fc3fd446924d81c86bd04b9a191c2"
-            },
-            "path": "mods/Iceberg-1.18.2-forge-1.0.49.jar"
         },
         {
             "downloads": [
@@ -168,21 +138,6 @@
                 "sha512": "4664b4b7655838e0887ef444a1683f3e1c3dcb4afa9ebe308d43270d1137f994fbf8be8c66609dbea174e6a67c87fdd3968979f000a49f47317b8da515abd424"
             },
             "path": "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/cOAITv1T/Rrls-1.18.2-3.1.0-forge.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 184411,
-            "hashes": {
-                "sha1": "796bb3e729b9c5c6c85fdd6afebf1a997c42fbf4",
-                "sha512": "2636d55e8e8ee1bddce1194cff08c434ffe8afbd73700b87faa4d29d715e5ffca92eee2272badf9bb764ddc15903f7f19c0d19ae81057ed91c990673d34a9eaf"
-            },
-            "path": "mods/Rrls-1.18.2-3.1.0-forge.jar"
         },
         {
             "downloads": [
@@ -351,6 +306,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/6jabgqyV/versions/zv03A1s2/give_me_more-1.18.2-1.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 29403,
+            "hashes": {
+                "sha1": "a474b239b4b2eb949e7bd7d988cc3dcf4de8aa2a",
+                "sha512": "258915770be38083fa4bcfd80221777e2056240d372adf1bdd67ca5ae20390d3d956aa47efbb4a0c794b1a3a753354e982cfdf05eaec1a67b074c9cad20a2778"
+            },
+            "path": "mods/give_me_more-1.18.2-1.2.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/W6ROj0Hl/versions/5WANT9e2/iChunUtil-1.18.2-Forge-1.0.0.jar"
             ],
             "env": {
@@ -471,36 +441,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/DoH2V0z5/versions/aeGkCM3u/panorama-1.2.0-1.18.2.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 27997,
-            "hashes": {
-                "sha1": "f986122637d643a2af9bc8a0976daefe6d9ef7e3",
-                "sha512": "43241255e7e28af9d16b6fe4cf06af56d195fe5314340c7b42ef16bc9b9e9dbed8aa1aed00ba6a83142dfb7221028a294103096e9cd406bef4822dc49bbff890"
-            },
-            "path": "mods/panorama-1.2.0-1.18.2.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/nCQRBEiR/versions/cqs6MYpF/raised-forge-1.18.2-4.0.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 77698,
-            "hashes": {
-                "sha1": "4e39dbb2106b314c22f73e23483506919ca9881d",
-                "sha512": "489ffbc5248c0de48ea4820056541fa3e533fb3ab804c9cec338b3e3dad6524ac927321d16e52b3167d397952546a44c611fbbfc36e71de71c71f0c677a2f94f"
-            },
-            "path": "mods/raised-forge-1.18.2-4.0.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/sk9knFPE/versions/N59eFKIq/rhino-forge-1802.2.1-build.255.jar"
             ],
             "env": {
@@ -528,21 +468,6 @@
                 "sha512": "319544d55243db3955d19a2978c8378f4bc72496208aff31e6c622f63bd100e84caf06f94f6838b27af7768fd2712c721017d9ee76190d2e0349f43a6cb6a22f"
             },
             "path": "mods/rubidium-0.5.6.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/aru7gAyl/versions/1.1.0/screenshotcopy-1.1.0-forge.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 4900675,
-            "hashes": {
-                "sha1": "fcb4f537c0baab24db79b0609b45a059eb56fe18",
-                "sha512": "85a53bba9de4db428e829a4d45d3fc2963b068c0c6d2d583632ccbe7fa6d8904dc62e5081cfa4098e96aebba61eec8d6b74798d526c674a2b3f66c8ad707f631"
-            },
-            "path": "mods/screenshotcopy-1.1.0-forge.jar"
         },
         {
             "downloads": [
@@ -623,6 +548,6 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "ATFC Remix",
-    "summary": "Auto-TerraFirmaCraft (TFC + Create) modpack remix for modernised singleplayer experience.",
-    "versionId": "1.0.2"
+    "summary": "AutoTerraFirmaCraft (TFC + Create) modpack remix for modernised singleplayer experience.",
+    "versionId": "1.0.3"
 }
