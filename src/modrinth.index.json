@@ -6,6 +6,21 @@
     "files": [
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/f5TwOKkb/versions/69dKH4e0/AdditionalPlacements-1.18.2-2.2.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 406725,
+            "hashes": {
+                "sha1": "e1f1c52aa6e3edf08622c142d33132a99400fdca",
+                "sha512": "e83054a794ed051dabf4cfcc628439a899ba97964a0ae466ed8395c027ed8e0518057b0a44fd949d2b6b2e758819f41dfab53522e16faabe93cb566532e236d9"
+            },
+            "path": "mods/AdditionalPlacements-1.18.2-2.2.2.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/xv94TkTM/versions/GwInrrcn/Controlling-forge-1.18.2-9.0%2B23.jar"
             ],
             "env": {
@@ -228,21 +243,6 @@
                 "sha512": "a278313471cd9563f716059cdab2fa3be11d002f44d1ffd57d025dfec336e3fe7dd2876501fb0ff5bc159c340e9ba5439a57d6d0607bcfda1a650f14e9852c4d"
             },
             "path": "mods/cloth-config-6.5.102-forge.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/e0M1UDsY/versions/sITn4lge/collective-1.18.2-7.7.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 529482,
-            "hashes": {
-                "sha1": "2eedfbe66d21d7392bdcbdf9d41aab844410dc1f",
-                "sha512": "61e57a7d50abd86892778e9373c1a5812a2fe604062804c40ef0e64f90809ccb316fd1f7159619cbe19830b66af8d156e8a7044e352b90ac874da6eff75da883"
-            },
-            "path": "mods/collective-1.18.2-7.7.jar"
         },
         {
             "downloads": [
@@ -483,21 +483,6 @@
                 "sha512": "671ec734ccd9a22d9e1ef4540e6fa478b85e674e4d78eda29f3862d9653b38aeadab65dcb1a3e2a9d114b29860b0a93ccc828a56604136936fb20f039bd0c1c6"
             },
             "path": "mods/smoothswapping-0.9.1-1.18.2-forge.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/mQWkB9ON/versions/zMCHDEgL/stackrefill-1.18.2-4.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 34711,
-            "hashes": {
-                "sha1": "932970ddb5d06c4a12e692f2cece7fc168eb8e31",
-                "sha512": "3796896c3ec388d6600fb57f9e3f92cdaa72b76ffdcfde080bdda5ded3bae228fa1fe3f460edd4e90862c28ecb8cdf3110fd3986cb99b7bbc467c6826eee2efb"
-            },
-            "path": "mods/stackrefill-1.18.2-4.1.jar"
         },
         {
             "downloads": [
