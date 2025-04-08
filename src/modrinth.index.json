@@ -186,21 +186,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/UCDPmsko/versions/3SIkdJI6/TFCFlorae-1.18.2-2.2.jar"
-            ],
-            "env": {
-                "client": "optional",
-                "server": "optional"
-            },
-            "fileSize": 154315160,
-            "hashes": {
-                "sha1": "eecc2e61e57be1a128b77fc99d4fa50eea42ee7f",
-                "sha512": "20ee04da09d61808452ec9cb450234a476c218c316a4fd1438f9bf279cb438f1835a46d886bba3fd86779f6ef094eac90bdc50b13a0015bc570b9294b5c63fbc"
-            },
-            "path": "mods/TFCFlorae-1.18.2-2.2.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/JaCEZUhg/versions/gGitRm7b/TerraFirmaCraft-Forge-1.18.2-2.2.33.jar"
             ],
             "env": {
