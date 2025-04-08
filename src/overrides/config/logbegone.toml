@@ -1,0 +1,5 @@
+
+[logbegone]
+	regex = [""]
+	phrases = ["Failed to process update information", "additionalplacements:mcw_tfc_aio", "was corrected from null to its default, SimpleCommentedConfig", "This probably means a mod should be calling", "Potentially Dangerous alternative prefix"]
+

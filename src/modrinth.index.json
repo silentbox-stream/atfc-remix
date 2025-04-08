@@ -21,6 +21,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/Jrmoreqs/versions/PswmgaXc/AdvancedBackups-forge-1.18-3.7.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 334891,
+            "hashes": {
+                "sha1": "734f7cc0655333169c2aa477a556d8932d083b35",
+                "sha512": "ce3901fd44af51d53b9eadeafa3b9de8b0699c8721a873741ec1d58f1b4b6d5c2aed97e79ebced352114cb7b680ba3c403b030809bc915d6cd895f7dedfe9292"
+            },
+            "path": "mods/AdvancedBackups-forge-1.18-3.7.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/xv94TkTM/versions/GwInrrcn/Controlling-forge-1.18.2-9.0%2B23.jar"
             ],
             "env": {
@@ -81,6 +96,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/O7RBXm3n/versions/ZngfLwFI/InventoryProfilesNext-forge-1.18.2-1.10.14.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 1431555,
+            "hashes": {
+                "sha1": "a3c44f6cf677deb75e494b93d052c3becc48cefc",
+                "sha512": "e2ee5973e4835c09aa7fbb506a2d61dcd39b093fc63623659d1ad58d3f9d062ff4a8b579718785803ceec4678e3344c7522fb7e5d8f0971b952c3b9e4b46b25f"
+            },
+            "path": "mods/InventoryProfilesNext-forge-1.18.2-1.10.14.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/nvQzSEkH/versions/L2um3gq1/Jade-1.18.2-forge-5.3.2.jar"
             ],
             "env": {
@@ -96,18 +126,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/2ecVyZ49/versions/ueN87SNs/Ksyxis-1.3.3.jar"
+                "https://cdn.modrinth.com/data/9ON3zv6e/versions/nYO2EEJH/Log-Begone-Forge-1.18-1.0.4.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 28484,
+            "fileSize": 58435,
             "hashes": {
-                "sha1": "2fff901eeb095c0a17ee16590e1be76c968224fc",
-                "sha512": "e754d8709d4a4c4ea894dda7bc5c3b017c8baddaaaa67b2319881d52dcce5ecd12d626087d55008de5eb942b02cf9e2099c71602296c5b63ea75abb2452b0bc7"
+                "sha1": "f113c5f57b0847289d2962206e83330b96192b8f",
+                "sha512": "4cd1d452eea0d6e5207897e3b2c30705eb893edd73703a567b273009d0d355044965dae809c4bb9d4d34d9f39e47484ff4e0ebcf1ce36ff3ec40751e2f0e1647"
             },
-            "path": "mods/Ksyxis-1.3.3.jar"
+            "path": "mods/Log-Begone-Forge-1.18-1.0.4.jar"
         },
         {
             "downloads": [
@@ -153,6 +183,21 @@
                 "sha512": "4664b4b7655838e0887ef444a1683f3e1c3dcb4afa9ebe308d43270d1137f994fbf8be8c66609dbea174e6a67c87fdd3968979f000a49f47317b8da515abd424"
             },
             "path": "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/UCDPmsko/versions/3SIkdJI6/TFCFlorae-1.18.2-2.2.jar"
+            ],
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "fileSize": 154315160,
+            "hashes": {
+                "sha1": "eecc2e61e57be1a128b77fc99d4fa50eea42ee7f",
+                "sha512": "20ee04da09d61808452ec9cb450234a476c218c316a4fd1438f9bf279cb438f1835a46d886bba3fd86779f6ef094eac90bdc50b13a0015bc570b9294b5c63fbc"
+            },
+            "path": "mods/TFCFlorae-1.18.2-2.2.jar"
         },
         {
             "downloads": [
@@ -276,21 +321,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/nRL5uFe0/versions/Ad1Rcd13/fastboot-1.18.x-1.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 24871,
-            "hashes": {
-                "sha1": "698bdf1714b6e3898b2baa9ad1b153296fcf18e6",
-                "sha512": "2abfe84d3ccf20f18182e45ab34df4636c766bb6ba9ffa9dc3aa8c096b6943098b61fe1261858b20e1e7b3a100df1b4398d852141dcca810783983e7e184935a"
-            },
-            "path": "mods/fastboot-1.18.x-1.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/uXXizFIs/versions/fs07zE6w/ferritecore-4.2.2-forge.jar"
             ],
             "env": {
@@ -336,21 +366,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/5mTUz0VW/versions/XJYJKWL5/inventorysorter-1.18.2-19.1.11.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 54971,
-            "hashes": {
-                "sha1": "cfb2dae5d39189a44fa106554713acf65f59590b",
-                "sha512": "9b42f422556698466c9b2d4e438d3f1e883c3aa89c8d8cbc4705199946a77923e079d67cfc275f1f1796ee1159fbdf77e6d6acc06cdb355a2c846e84a99afb8c"
-            },
-            "path": "mods/inventorysorter-1.18.2-19.1.11.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/u6dRKJwZ/versions/k3W3h9cO/jei-1.18.2-forge-10.2.1.1002.jar"
             ],
             "env": {
@@ -363,6 +378,21 @@
                 "sha512": "9b0defd629450af0fd0882e6b8dd9df607bbb90f582847c8870d286ff6d15da604c86688ea72a1f4cee92b735147a68f1bd83bfb4d8138401d26036b65cb68ff"
             },
             "path": "mods/jei-1.18.2-forge-10.2.1.1002.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ordsPcFz/versions/NBn3sEQk/kotlinforforge-3.12.0-all.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 7365976,
+            "hashes": {
+                "sha1": "cf09c1be6d8950e3f7551f02f141818aee5a3ec0",
+                "sha512": "15e6e2e88ca8ea4df730a20e99e131d266b27822299d464f004bcbc0a3f15c3275d25e3edc4397ef0a6584dd1d6161e9199fa8369f1581abb05ec6c74edc8cc1"
+            },
+            "path": "mods/kotlinforforge-3.12.0-all.jar"
         },
         {
             "downloads": [
@@ -393,6 +423,66 @@
                 "sha512": "96f75202c917069e8217bfdf90e19d246230eab8138bb3116c42caec9d8cd4c2b8d21002359def25c202322105335d3a457884e47108b7ff14cacd2925184372"
             },
             "path": "mods/kubejs-forge-1802.5.5-build.569.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/onSQdWhM/versions/afnOcsI2/libIPN-forge-1.18.2-4.0.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 693852,
+            "hashes": {
+                "sha1": "b8f0ab9567010bd0dd7875a75795cd7306f624ba",
+                "sha512": "630cf254f686aae0d7d49fa8f0dca566ac6d4faa386bac6fcdbdd5de8047d44d8f59770282ee9facde105c3745c159c3031c247d58edcc4df0757d3c3317af4b"
+            },
+            "path": "mods/libIPN-forge-1.18.2-4.0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/US93mifm/versions/loLGVTTD/lightspeed-1.18.2-1.0.5.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 50663,
+            "hashes": {
+                "sha1": "172412a46c61659b6aa6a8df7b29a38fd721b5cf",
+                "sha512": "65bbf9d266d52bb31fa6cd1e46610ad1b80862243e56da1bd89f0c2e128df4f1ee61299bbc562a8460feeadedb94669aab483dcb9dab1464ff9893ffc39e032a"
+            },
+            "path": "mods/lightspeed-1.18.2-1.0.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/67kVxsaO/versions/uNo4PuMq/lmft-1.0.2%2B1.18.2-forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 182466,
+            "hashes": {
+                "sha1": "c123b2142ed6cd981f01a7d931c1d9485c1ec988",
+                "sha512": "8e5548985789454b66e5dfee310c6e42ffdb021bc3462b33e0bc59d4d476c61414141d0e71663c193afe9411047cbfddbd39e1fd2d8ab9574069bbca30d2fb21"
+            },
+            "path": "mods/lmft-1.0.2+1.18.2-forge.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/Vlkqd178/modernfix-forge-5.18.0%2Bmc1.18.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 758116,
+            "hashes": {
+                "sha1": "56a7629faca859ae5774d29ced0bd26e6d091fc9",
+                "sha512": "6b7c6efe9b60299bf66b1b24a6c5392cc961f112b2e65452adccc7da9edc3849a7e2f6c06c8033b8514ba58455208ba5662f40e46052e481d88b6bf48508350a"
+            },
+            "path": "mods/modernfix-forge-5.18.0+mc1.18.2.jar"
         },
         {
             "downloads": [
@@ -468,6 +558,21 @@
                 "sha512": "319544d55243db3955d19a2978c8378f4bc72496208aff31e6c622f63bd100e84caf06f94f6838b27af7768fd2712c721017d9ee76190d2e0349f43a6cb6a22f"
             },
             "path": "mods/rubidium-0.5.6.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/z53V2L4P/versions/gCz8FYyg/smoothboot%28reloaded%29-mc1.18.2-0.0.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 41005,
+            "hashes": {
+                "sha1": "89d7daf594d25c39eebac0e90f72f43c69b52dfe",
+                "sha512": "3a761c4f8156a5c6669dc06bdf77703ec65499add02b8945c10a460e6801cbcc9aec991439326279ca79bdbcc44e1ef3b406663c87adc867bccfe927ce7334d9"
+            },
+            "path": "mods/smoothboot(reloaded)-mc1.18.2-0.0.4.jar"
         },
         {
             "downloads": [
