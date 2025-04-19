@@ -9,5 +9,10 @@
         "enable_profiles_ui": {
             "value": false
         }
+    },
+    "AutoRefillSettings": {
+        "refill_before_tool_break": {
+            "value": false
+        }
     }
 }

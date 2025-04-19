@@ -36,6 +36,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/Q2OqKxDG/versions/4b3NQ33t/BetterAdvancements-1.18.2-0.1.2.125.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 63757,
+            "hashes": {
+                "sha1": "bcc17b2ca1532ac6faf9928888cf29b6d275d1ba",
+                "sha512": "6c7435a0f67c16cdba579d03f58a3bf499631beb0e471dbc63dffc7687209c804b249047842b5ee199b9bd65cdb6a83b11c836b6eaacbc4b6bcc73f4c2421e8f"
+            },
+            "path": "mods/BetterAdvancements-1.18.2-0.1.2.125.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/xv94TkTM/versions/GwInrrcn/Controlling-forge-1.18.2-9.0%2B23.jar"
             ],
             "env": {
@@ -276,6 +291,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/RzMcpTLU/versions/vGtIHTTn/corals-tfc-1.0.0-forge-1.18.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 82287,
+            "hashes": {
+                "sha1": "5d9372f8a2d9cbc42d87529184980968e0e84d83",
+                "sha512": "030792ee1c5a5ceed9abde161fa8b1225e76204b4df16a5f7bc9bc12dcfff9af825ed5f3a68b6cdb33b08e7590d7f9008293a357e625b2258f998140474c20ed"
+            },
+            "path": "mods/corals-tfc-1.0.0-forge-1.18.2.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/LNytGWDc/versions/PPBSr5ud/create-1.18.2-0.5.1.h.jar"
             ],
             "env": {
@@ -366,6 +396,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/9Pk89J3g/versions/xwJngORc/justenoughbreeding-forge-1.18.2-1.2.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 112696,
+            "hashes": {
+                "sha1": "d795d4cae0e3400fdb0fdf9aa5e10bf4bcdf3f61",
+                "sha512": "d187e6e0228e0fbefcdb129460190ed5efe85c6d8e692f12525c43331dd56ad42240d9f1e3538eca5a8702b5daa10a67c2d2ac2950e462d99b16e89c40a81b21"
+            },
+            "path": "mods/justenoughbreeding-forge-1.18.2-1.2.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/ordsPcFz/versions/NBn3sEQk/kotlinforforge-3.12.0-all.jar"
             ],
             "env": {
@@ -408,6 +453,21 @@
                 "sha512": "96f75202c917069e8217bfdf90e19d246230eab8138bb3116c42caec9d8cd4c2b8d21002359def25c202322105335d3a457884e47108b7ff14cacd2925184372"
             },
             "path": "mods/kubejs-forge-1802.5.5-build.569.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/x6r7yhfi/versions/iy7ZcSi0/labels-1.18.2-1.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 241303,
+            "hashes": {
+                "sha1": "107da6862967149e98b5cd0bb35c33d892fd30b1",
+                "sha512": "89ca091cd58859502510f64d141c6522918c25446b80f71b86dd5563585e6a9f0c4fdbcae668354a09bcd51445bfeacfd259652f2efd61ae417d62bcfc5d3f52"
+            },
+            "path": "mods/labels-1.18.2-1.0.jar"
         },
         {
             "downloads": [
@@ -483,6 +543,36 @@
                 "sha512": "4527236781611cc40a77e222e4dd2a1d6a5c0c9a9394eed4063c20c91ba62568c2d4323bc84a9372d69d10703e26b7569ef75ea55c52ad36ec55107f19bcaae8"
             },
             "path": "mods/no-telemetry-1.9.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/U8avpWmO/versions/B1ITmI5k/nounusedchunks-1.3.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 83016,
+            "hashes": {
+                "sha1": "12effbcbe29af1468cb753c1e394098afa988f22",
+                "sha512": "40f4c53c434b6d8a7273ac62084d122bf20f8f521dc309f5b714dde32d618c8b94e90a39d4cfd306457c73fcf730e78627576f1e526ecdd0cb173b306e7f61f0"
+            },
+            "path": "mods/nounusedchunks-1.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/VYRu7qmG/versions/2.2.3-forge/observable-2.2.3-forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 9593066,
+            "hashes": {
+                "sha1": "78fcd467158ac2d1dffe6e31abda24ad5664f723",
+                "sha512": "31eb3edfd1bf53dddf04f947f48484b00c77f0b1b0f4e24affc3094d503a30ff2d03770a07f816e614d2ec722f5ee48c981b4057b5610da83e3c86dcbba7e52e"
+            },
+            "path": "mods/observable-2.2.3-forge.jar"
         },
         {
             "downloads": [
@@ -576,6 +666,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/dOGM7ccu/versions/EzoqtHGC/spiderstpo-1.18.2-2.0.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 110582,
+            "hashes": {
+                "sha1": "ceb875cd778d6848d71d501d20caad0dae23cbb7",
+                "sha512": "435cf321eb29ee543a2c5af6653ca059f284c7a99e8cea433ff302b64aa1d73a04024a4fe0149525f9e40cddbcfd09cb4225c3250d970df56071e843dd89e185"
+            },
+            "path": "mods/spiderstpo-1.18.2-2.0.2.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/RL8eBaUL/versions/kdp5azHC/tfc_support_indicator-1.0.3%2Bmc1.18.2.jar"
             ],
             "env": {
@@ -618,11 +723,221 @@
                 "sha512": "98ea25706ae4c6d29c3153ee0737db4a1bd12d7dea05d6dfee2932433629f5137e35476ef4a181c9273ace2a3d2cee0a187471982630bbc5dbc86fbdff63f38f"
             },
             "path": "mods/waterflasks-2.0.7.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/dAU9uKaA/versions/wWe5NcZV/music-and-melody-1.21-v1.4.5.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 77138054,
+            "hashes": {
+                "sha1": "2dfc2ab583fabba5c88c6718b789d1ffb4dfea8e",
+                "sha512": "7895ac12135a9a95d69b10eba74f8b1ce333fd28249137e19abe9d2e23168bb0984cebc83c624be76fa6cc7329b00f4d8092d6c43f5b164c2755c86bd6464852"
+            },
+            "path": "resourcepacks/music-and-melody-1.21-v1.4.5.zip"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/resourcepacks/Vexxed_Visuals_TFCTNG_v1.0.3.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 14681337,
+            "hashes": {
+                "sha1": "58011a2a927133d617debf6cb5abf82841f97c71",
+                "sha512": "7b8e909977c58070d26e0d4edf2f74e09bfd29a67541e6a21242feda3c793830bdb80e824dbbb5bea2c6af6018075f4ff003a27f217350dbbc1610c0ca9a61cc"
+            },
+            "path": "resourcepacks/Vexxed_Visuals_TFCTNG_v1.0.3.zip"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/catalogue-1.6.2-1.18.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 98216,
+            "hashes": {
+                "sha1": "ffba614f78af09cd60e554f1d605463f723d7466",
+                "sha512": "25abc53774cbc0cab02cabc3815e08d1692f2292ae9f84a8fd800c57f86d2d5a459264904e02e1308d6acacd9fe2d085d98cc89759387d0390324bf8a2dd2a14"
+            },
+            "path": "mods/catalogue-1.6.2-1.18.2.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/configured-2.0.1-1.18.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 277131,
+            "hashes": {
+                "sha1": "825e0e439de2bfabf5d088953eb49c1c04e3e531",
+                "sha512": "d1bc625abf4195a5fa000e5b0f25fe77d326e954f83ef3981775d60bda180d1317b88ccbe230c8ee1c15aa6443fc6f41ed737ddf49fdb825cd3cdac89d46e736"
+            },
+            "path": "mods/configured-2.0.1-1.18.2.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/goprone-1.18.2-2.2.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 207849,
+            "hashes": {
+                "sha1": "198c98ee7f2a9cd0fb67693ca64f56243a6a17c8",
+                "sha512": "15a0632bf666b71da178ccf58b430185dc3d76522ea03773c3f4a02bd56606d7b1539e6e57a7b6a793063c2b5d590462f185428c06df6a1e980f0ce26eb8db7b"
+            },
+            "path": "mods/goprone-1.18.2-2.2.1.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/gravestone-1.18.2-1.0.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 249205,
+            "hashes": {
+                "sha1": "39a226e85c5407e436811b71590d8126b5cdb66f",
+                "sha512": "998c0f878050878e24b5b5df898adbe50d2aceb8364d9b3694cef8556f4a7e9d82b0c79bcdf8897644cffdd7a84e8d9f2e26996684591c9b4e7b641cad2f75c0"
+            },
+            "path": "mods/gravestone-1.18.2-1.0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/infinitemusic-1.5.1-1.18.1-forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 73166,
+            "hashes": {
+                "sha1": "d4b04785afb70817f3f6594b019551dcaf0b5f98",
+                "sha512": "2a9c07e420ef0555374a79a1f4038a8b958b4ffb152602c33b347c2e1f6b8085b4507c2c541cbb59753836e7107ad87f4e31e1a3244d57e4f1c27d5bd9c00167"
+            },
+            "path": "mods/infinitemusic-1.5.1-1.18.1-forge.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/itemzoom-1.18.2-2.6.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 25897,
+            "hashes": {
+                "sha1": "c353c4a5369b6dc34531f8e250f01fb8cc5bd0a1",
+                "sha512": "2081b51af060246c3807d6a6894bcb69935162c31a9c8eb8b26de1e4da0cce6b943f42398cfc77ae3b3112f51d3837593b89c8e986c7ce91e2ed9b3e4c1cbb93"
+            },
+            "path": "mods/itemzoom-1.18.2-2.6.0.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/lazydfu-1.0-1.18+.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 15445,
+            "hashes": {
+                "sha1": "069f72997244b57b76c96ac86faa37b1838d52de",
+                "sha512": "16341b86d830766817a0705f3835e9eb73e095d91f1c27331e9b93f02021896f667e9ff6564b6ae2e75d265a18a930c65a5e9a75b513aa1aecbd491bb225dc9b"
+            },
+            "path": "mods/lazydfu-1.0-1.18+.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/Mcw_TFC_aio-0.5.7-1.18.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 3309699,
+            "hashes": {
+                "sha1": "6339bb01b7d7f099d120ff9e565d6357226ea7b7",
+                "sha512": "0283dad9a3301d8bb7d745ee92719424fe206d4ca7dfb84b9dab3785690df5f299e3e42fed02ab05627557da60724cdca86dbd7ca5b9b9cf93af6456ff7723fa"
+            },
+            "path": "mods/Mcw_TFC_aio-0.5.7-1.18.2.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/PickUpNotifier-v3.2.1-1.18.2-Forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 81610,
+            "hashes": {
+                "sha1": "0b3c27c890eaef3d5f1c8360185db3d5ddbd0422",
+                "sha512": "bedf2831e1db86139ffd53f813a758da3ec39a6a72241d955e99f91d568f2ff20de3346ef31a1dcc2f304a52768e8d03549895725eb381d33b984ba76f8960d0"
+            },
+            "path": "mods/PickUpNotifier-v3.2.1-1.18.2-Forge.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/radium-0.7.10.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 501920,
+            "hashes": {
+                "sha1": "5ef8ecf547ceebc4d1e678b6cd2441756e283e48",
+                "sha512": "9bbe2f5ea6e5ebe29d452e941d08bf8863700783509143f34abb45910d78e5194ebb47655a87999c3558e7bdb91870e011b4dc9fc6f382877f2205cbdd8d8881"
+            },
+            "path": "mods/radium-0.7.10.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/StylishEffects-v3.1.0-1.18.2-Forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 99186,
+            "hashes": {
+                "sha1": "7e02224a36e0d67cdff35f2b847db8a2f675238b",
+                "sha512": "0a766de097b4cb87cb65de67fe6dde460bbd6d2090ad75cbfdfb2d7d6b14954a2703fd00a9b5ea60d11349d6b5d55cd2b6232fafa7dfffd4b81699a20ee679aa"
+            },
+            "path": "mods/StylishEffects-v3.1.0-1.18.2-Forge.jar"
+        },
+        {
+            "downloads": [
+                "https://raw.githubusercontent.com/silentbox-stream/atfc-remix/43581fc0b86413151dd14ef6e754999501e5ddba/src/overrides/mods/swingthroughgrass-1.18.2-1.9.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 23207,
+            "hashes": {
+                "sha1": "0d2430f6018cff2905e3c832bc078772b6965268",
+                "sha512": "ddfb5b22bd7c3d4ba4510fdad62cb0cdde34238f0eb60ceca048b2dafea9ae6784d66192bc6081989e3f173476c52fbdb1b4fe176bc2d4afca166c8f37698551"
+            },
+            "path": "mods/swingthroughgrass-1.18.2-1.9.1.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "ATFC Remix",
+    "name": "ATFC remix",
     "summary": "AutoTerraFirmaCraft (TFC + Create) modpack remix for modernised singleplayer experience.",
-    "versionId": "1.0.3"
+    "versionId": "1.2.0"
 }
